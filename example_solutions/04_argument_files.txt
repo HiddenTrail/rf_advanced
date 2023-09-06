@@ -1,0 +1,3 @@
+--variable URL:https://www.saucedemo.com/  
+--variable USERNAME:standard_user
+--variable PASSWORD:secret_sauce
