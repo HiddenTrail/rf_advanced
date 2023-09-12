@@ -36,6 +36,6 @@ The repository is divided by exercises and solutions folders. In addition the re
 
 15. **Starting Tests Programmatically** - Learn how to run Robot Framework tests from Python scripts and integrate with other systems.
 
-16. **Using Linters for Code Quality** - Introduction to linters like robotframework-lint for maintaining code quality.
+16. **Using Linters for Code Quality** - Introduction to linters like robocop for maintaining code quality.
 
 17. **Further Resources and Next Steps** - Additional documentation, tools, and guidelines for continuous learning and mastery of Robot Framework.
