@@ -1,0 +1,31 @@
+[tool.robocop]
+paths = [
+    ".",
+]
+output = "robocop.log"
+threshold = "W"
+reports = [
+    "all",
+]
+configure = [
+    "missing-doc-keyword:severity:I",
+    "todo-in-comment:severity:I",
+    "too-many-arguments:max_args:10"
+]
+
+
+[tool.robotidy]
+src = [
+    ".",
+]
+overwrite = true
+diff = true
+spacecount = 4
+continuation-indent = 4
+lineseparator = 'unix'
+configure = [
+    "SplitTooLongLine:enabled=True",
+    "RenameTestCases:enabled=True",
+    "RenameKeywords:enabled=True",
+    "NormalizeNewLines:enabled=True"
+]
