@@ -1,0 +1,20 @@
+# Variables specific to the staging environment
+-v STAGING_URL=https://staging.example.com
+-v STAGING_DB_URL=database-url-for-staging
+-v STAGING_API_KEY=abcdef123456
+
+# Specify output, log, and report directories
+-o output/staging-output.xml
+--log logs/staging-log.html
+--report reports/staging-report.html
+
+# Include only tests with certain tags
+-i staging
+-i regression
+
+# Exclude tests with certain tags
+-e production
+
+
+
+
