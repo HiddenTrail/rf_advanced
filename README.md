@@ -24,18 +24,14 @@ The repository is divided by exercises and solutions folders. In addition the re
 
 09. **Different Log Levels** - Understand and customize log levels to suit different testing needs.
 
-10. **Advanced Error Reporting** - Techniques for generating detailed error reports and integrating with external tools.
+10. **Decorators in Robot Framework** - Introduction to Python decorators and their usage within Robot Framework.
 
-11. **Decorators in Robot Framework** - Introduction to Python decorators and their usage within Robot Framework.
+11. **Library Documentation (libdoc)** - Generate and manage documentation for custom libraries using libdoc.
 
-12. **Arguments as a Part of a Keyword Name** - Explore dynamic keyword creation by including arguments in keyword names.
+12. **Understanding and Implementing Listeners** - Create and use listeners for custom logging and actions during test execution.
 
-13. **Library Documentation (libdoc)** - Generate and manage documentation for custom libraries using libdoc.
+13. **Starting Tests Programmatically** - Learn how to run Robot Framework tests from Python scripts and integrate with other systems.
 
-14. **Understanding and Implementing Listeners** - Create and use listeners for custom logging and actions during test execution.
+14. **Using Linters for Code Quality** - Introduction to linters like robocop for maintaining code quality.
 
-15. **Starting Tests Programmatically** - Learn how to run Robot Framework tests from Python scripts and integrate with other systems.
-
-16. **Using Linters for Code Quality** - Introduction to linters like robocop for maintaining code quality.
-
-17. **Further Resources and Next Steps** - Additional documentation, tools, and guidelines for continuous learning and mastery of Robot Framework.
+15. **Further Resources and Next Steps** - Additional documentation, tools, and guidelines for continuous learning and mastery of Robot Framework.
