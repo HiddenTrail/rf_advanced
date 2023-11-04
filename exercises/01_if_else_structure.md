@@ -2,8 +2,6 @@
 
 In automation, not every action we take is fixed or linear. There are situations where our test needs to decide which path to take based on certain conditions. Like many programming languages, Robot Framework offers a way to use conditionals in these kinds of situations.
 
-The syntax:
-
 ## Exercise 1
 
 **Objective:** Learn Robot Frameworks IF/ELSE structure.

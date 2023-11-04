@@ -1,7 +1,6 @@
 *** Settings ***
+Documentation  This suite simulates a failure in try-except.
 Library  Browser
-
-Suite Setup  Set Browser Timeout  2s
 
 *** Test Cases ***
 Try Adding Non-Existent Item
@@ -14,7 +13,7 @@ Try Adding Non-Existent Item
 *** Keywords ***
 Try To Add Non-Existent Item
     TRY
-        Click  id=nonexistent-item  #Stuck in here, need to fix!
+        Fail
     EXCEPT
         Log  Item not found, continuing.
     FINALLY
