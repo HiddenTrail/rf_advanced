@@ -4,7 +4,9 @@
 
 **Objective:** Learn basic looping functionality. Try out FOR loop in this exercise.
 
-Write a test case that logs into the Sauce Demo site and adds the first three available products to the cart using a loop.
+Write a test case that 
+1. logs into the https://www.saucedemo.com/ site 
+2. Adds the first three available products to the cart using a loop.
 
 ## Exercise 2.2 WHILE loop
 

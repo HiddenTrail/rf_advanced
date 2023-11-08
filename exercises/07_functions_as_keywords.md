@@ -17,5 +17,4 @@ You should use BuiltIn library to help with this, other libraries are not needed
 
 ## Exercise 7.2
 
-some looping exercise
-
+For this exercise, we'll do the exercise 02 FOR loop solution to python.
