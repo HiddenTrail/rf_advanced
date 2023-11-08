@@ -1,0 +1,7 @@
+*.pyc
+*.html
+*.xml
+*playwright-log.txt
+example_solutions/browser
+example_solutions/__pycache__
+/browser
