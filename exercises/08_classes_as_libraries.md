@@ -9,3 +9,11 @@ Robot Framework is not limited to using functions as keywords. Entire Python cla
 Create a class in Python that performs the tax calculations and then use this class in a Robot Framework test.
 
 ## Exercise 8.2  Saucedemo Add to Cart as a Class
+
+**Objective:** Create a class that encapsulates the functionality of adding items to the cart on the saucedemo website.
+
+1. Create the saucedemo class with three different keywords as methods:
+    - Open saucedemo.com
+    - Log in
+    - Add 3 products to cart
+2. Import the class and use those methods in a test case.
