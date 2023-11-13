@@ -21,7 +21,8 @@ Input Password
     Type Text  ${locator}  ${password}
 
 Login To Website
-    Open Browser    ${URL}
+    New Browser     chromium    headless=False
+    New Page        ${URL}
     Type Text       id=user-name  standard_user
     Type Text       id=password  secret_sauce
     Click           id=login-button

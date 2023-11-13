@@ -15,6 +15,10 @@ So the idea is to take price and tax rate as an arguments and then calculate the
 
 You should use BuiltIn library to help with this, other libraries are not needed. Remember to import the library in your python file.
 
-## Exercise 7.2
+## Exercise 7.2 FOR loop
 
 For this exercise, we'll do the exercise 02 FOR loop solution to python and use that in a test case.
+
+## Exercise 7.3 WHILE loop
+
+For this exercise, we'll do the exercise 02 WHILE loop solution to python and use that in a test case.

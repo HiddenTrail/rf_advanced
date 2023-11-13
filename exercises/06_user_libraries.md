@@ -2,7 +2,7 @@
 
 In Robot Framework, you're not limited to using only the provided keywords and libraries. You can create your own custom libraries in Python and utilize them in your test scripts. This provides a higher level of customization, allowing you to design specific operations tailored to your test needs.
 
-## Exercise 6
+## Exercise 6.1 Very simple keyword in pythonß
 
 **Objective:** Understand the basic creation and utilization of a custom user library in Robot Framework.
 
