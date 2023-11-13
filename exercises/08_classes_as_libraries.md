@@ -17,3 +17,11 @@ Create a class in Python that performs the tax calculations and then use this cl
     - Log in
     - Add 3 products to cart
 2. Import the class and use those methods in a test case.
+
+## Exercise 8.3  More methods to your Class
+
+1. Create three more keywords as methods to you saucedemo class:
+    - Go to Cart
+    - Checkout
+    - Log out
+2. Use those methods in a new test case.

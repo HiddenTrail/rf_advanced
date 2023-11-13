@@ -2,7 +2,7 @@
 
 In Robot Framework, you're not limited to using only the provided keywords and libraries. You can create your own custom libraries in Python and utilize them in your test scripts. This provides a higher level of customization, allowing you to design specific operations tailored to your test needs.
 
-## Exercise 6.1 Very simple keyword in pythonß
+## Exercise 6.1 Very simple keyword in python
 
 **Objective:** Understand the basic creation and utilization of a custom user library in Robot Framework.
 
@@ -17,3 +17,10 @@ In this exercise, you will create a simple Python-based library that contains a 
 6. Within this test case, call the my_keyword function.
 7. Run the test case.
 8. Observe the console or log output. You should see the print statement from the my_keyword function, indicating its successful execution as a Robot Framework keyword.
+
+## Exercise 6.2 Simple variable usage
+
+1. Use the existing my_library.py file or create a new one.
+2. Define a new function called greet_user.
+    - This function should accept one argument, name.
+    - The function should print: "Hello, [name]! Welcome to Robot Framework!" where [name] is the value passed to the function.
