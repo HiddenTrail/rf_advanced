@@ -16,8 +16,8 @@ Write a Robot Framework test case that:
 ## Exercise 1.2 ELSE IF
 
 1. Log in to https://www.saucedemo.com/ with correct credentials.
-2. Set the product name you want to check, for example, 'Sauce Labs Fleece Jacket' and set the expected price for the product.
-3. Write a keyword to retrieve the actual price of the product from the webpage.
+2. Write a keyword to retrieve the actual price of the product from the webpage.
+3. Set the product name you want to check, for example, 'Sauce Labs Fleece Jacket' and set the expected price for the product.
 4. Use an IF statement to check if the product name is 'Sauce Labs Backpack' and verify the price.
 5. Use ELSE IF statements to check for additional product names like 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', and 'Sauce Labs Fleece Jacket', verifying the price for each one.
 6. Use the ELSE block to log a warning if none of the product names match.
