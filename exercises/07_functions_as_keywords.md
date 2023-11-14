@@ -22,3 +22,8 @@ For this exercise, we'll do the exercise 02 FOR loop solution to python and use 
 ## Exercise 7.3 WHILE loop
 
 For this exercise, we'll do the exercise 02 WHILE loop solution to python and use that in a test case.
+
+Tip: You may also do couple of helper functions to
+    - Generate random password
+    - Check if you are logged in
+    And use those in your while loop function.
