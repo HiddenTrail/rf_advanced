@@ -27,5 +27,5 @@ Tip: You may also do couple of helper functions to
 
     - Generate random password
     - Check if you are logged in
-    
+
     And use those in your while loop function.

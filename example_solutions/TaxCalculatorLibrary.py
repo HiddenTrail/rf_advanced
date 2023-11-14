@@ -1,4 +1,9 @@
 class TaxCalculatorLibrary:
+    """Class to handle tax calcultations
+    Methods:
+        Calculate total with tax
+            Takes 2 inputs: price and tax rate to calculate the total price.
+    """
     def __init__(self):
         pass
 

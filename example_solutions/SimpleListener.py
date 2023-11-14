@@ -8,8 +8,8 @@ class SimpleListener:
         self.ROBOT_LIBRARY_LISTENER = self
         self.builtin = BuiltIn()
 
-    def start_test(self, name, attrs):
+    def start_test(self, name):
         self.builtin.log("Starting test: {}".format(name))
 
-    def end_test(self, name, attrs):
+    def end_test(self, name):
         self.builtin.log("Ending test: {}".format(name))
